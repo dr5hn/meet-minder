@@ -1,0 +1,21 @@
+{
+  "name": "meet-minder",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@nozbe/watermelondb": "^0.20.0",
+    "@nozbe/with-observables": "^1.0.7",
+    "lokijs": "^1.5.11",
+    "next": "9.5.3",
+    "postcss-flexbugs-fixes": "^4.2.1",
+    "postcss-preset-env": "^6.7.0",
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "tailwindcss": "^1.9.6"
+  }
+}

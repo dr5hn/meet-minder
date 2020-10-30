@@ -1,0 +1,25 @@
+Title
+--
+Meet Minder - Meetings Link Organizer
+
+Team Name
+--
+Webgeeks
+
+Team Members
+--
+Darshan Gada
+Valerian Pereira
+
+Abstract
+--
+This application's purpose is to organize a meeting links.
+Usually i need to find or click through many a times digging inside calendar etc.
+
+This application will simplify the links organizing and user can easily find one through interactive filter.
+
+Tech Stack
+--
+React
+Node.js (If Required)
+Browser Storage
